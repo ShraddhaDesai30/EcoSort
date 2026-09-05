@@ -1,7 +1,4 @@
-# streamlit_final_app.py            http://localhost:8501
 
-#cd C:\Users\Admin\OneDrive\Desktop\ML 
-#streamlit run streamlit_final_app.py
 
 import streamlit as st
 import torch
